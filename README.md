@@ -1,10 +1,10 @@
 # Projeto_Filmes
 Projeto feito para cadeira de classificação e pesquisa de dados da Universidade Federal Do Rio Grande do Sul(UFRGS)
 Envolvendo tratamento de arquivos em csv compostos por:
-  27,278 filmes
-  20,000,263 de avaliações
-  138,493 usuários
-  465,564 anotações de texto livre (tags)
+  -27,278 filmes
+  -20,000,263 de avaliações
+  -138,493 usuários
+  -465,564 anotações de texto livre (tags)
 
 Transformando os dados em Estrutura de Dados tornando o acesso a memoria mais eficiente
 para que as pesquisas do usuario sejam respondidas com rapidez.
