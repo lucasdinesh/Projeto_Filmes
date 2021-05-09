@@ -19,7 +19,7 @@ As pesquisas são constituidas em:
   - Pesquisas sobre os melhores filmes de um dado gênero:
     Esta pesquisa tem por objetivo retornar a lista de filmes com melhores notas de um dado gênero.
    
-  -Pesquisas sobre ‘tags’ de filmes
+  - Pesquisas sobre ‘tags’ de filmes:
      Esta pesquisa tem por objetivo explorar a lista de tags adicionadas por cada usuário em cada
      revisão. Para uma lista de tags dada como entrada, a pesquisa deve retornar a lista de filmes
      que estão associados a esse conjunto de tags.
